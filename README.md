@@ -1,7 +1,8 @@
-<h1 align='center'> Hi there 👋, I'm rong  👩‍💻 </h1>
+<h1 align='center'> Hi there 👋 </h1>
 
-<p align='center'>
-  I live in South Korea
+<p>
+I'm rong 👩‍💻 </br>
+You can check my <a href="https://dev-rong.github.io">portfolio</a>.
 </p>
 
 <h4>🔭  I’m currently working with ...</h4>
