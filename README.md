@@ -1,9 +1,9 @@
 <h1 align='center'> Hi there 👋 </h1>
 
-<p>
-I'm rong 👩‍💻 </br>
-You can check my <a href="https://dev-rong.github.io">portfolio</a>.
-</p>
+
+<p margin-bottom='1rem'>I'm rong 👩‍💻</p>
+<p>You can check my <a href="https://dev-rong.github.io">portfolio</a>.</p>
+
 
 <h4>🔭  I’m currently working with ...</h4>
 <p>
