@@ -1,9 +1,13 @@
-### Hi there 👋
+<h1 align='center'> Hi there 👋, I'm rong  👩‍💻 </h1>
 
-<!--
-**dev-rong/dev-rong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align='center'>
+  I live in South Korea
+</p>
 
-Here are some ideas to get you started:
+<p align='center'>
+  <a href="https://dev-rong.github.io"> </a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:dev.ronggg@gmail.com?subject=Olá%20Stefany"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
