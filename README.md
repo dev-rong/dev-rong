@@ -8,8 +8,9 @@
 
 <h4>📂&nbsp;&nbsp;Projects</h4>
 <ul>
-  <li><a href="https://iasnap.vercel.app">IA SNAP</a> - The Official website of IA SNAP, a wedding snap service</li>
-  <li><a href="https://trolio.netlify.app">TROLIO</a> - A web service for freelance media translators</li>
+  <li><a href="https://iasnap.vercel.app">IA SNAP</a> - The official website of IA SNAP, a wedding snap service</li>
+  <li><a href="https://mokdong-kimbab.vercel.app">Mokdong Kimbab</a> - The official website of Mokdong Kimbab</li>
+  <li><a href="https://trolio.netlify.app">TROLIO</a> - A demo web service for freelance media translators</li>
 </ul>
 
 
